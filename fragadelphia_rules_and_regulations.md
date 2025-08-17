@@ -103,7 +103,7 @@
 
 ### Time-outs
 1. All teams are given 3 tactical time-outs per map played. All forms of communication are allowed during a tactical time-out.
-2. All teams are given the ability to activate technical time-outs during any freeze-time. All forms of communication except communication with an admin are prohibited during tactical time-outs, and will result in a penalty. 
+2. All teams are given the ability to activate technical time-outs during any freeze-time. All forms of communication except communication with an admin are prohibited during technical time-outs, and will result in a penalty. 
 
 ### Coaching
 1. Depending on available hardware, coaches may or may not have access to team communications. In the event that a coach does not have access, they are not permitted to interact verbally with the team at any point during a live match.
