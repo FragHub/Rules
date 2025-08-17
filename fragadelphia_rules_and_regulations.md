@@ -8,10 +8,11 @@
    4. [Check In](#check-in)
 2. [General Attendance Rules](#general-attendance-rules)
    1. [Participants Guideline](#participants-guideline)
-   2. [Laws](#laws)
-   3. [Confidentiality](#confidentiality)
-   4. [Age Restriction](#age-restriction)
-   5. [Broadcast Rights](#broadcast-rights)
+   2. [Bag Policy](#bag-policy)
+   3. [Laws](#laws)
+   4. [Confidentiality](#confidentiality)
+   5. [Age Restriction](#age-restriction)
+   6. [Broadcast Rights](#broadcast-rights)
 3. [Event Rules](#event-rules)
    1. [Roster/Player Details](#rosterplayer-details)
    2. [Peripheral Requirements](#peripheral-requirements)
@@ -68,10 +69,12 @@
    5. Attendees will not disrespect or intentionally disrupt event production during the event.
    6. Attendees will not enter restricted areas during the event.
    7. Attendees shall be responsible for all costs associated with any items damaged or destroyed by said attendee, including (but not limited to) equipment owned or rented by Fragadelphia, or any equipment owned or rented by the venue hosting the event. 
-2. Only rostered players will be allowed to bring bags into the venue. All other attendees will not be allowed to bring bags into the venue. All bags are subject to search before entry.
 3. Attendees shall NOT disrupt players while games are being played, including (but not limited to) verbal and physical interruptions or tampering with players’ equipment.
 4. Attendees shall NOT share or relay any information about a live match to players participating in any match.
 5. All attendees must adhere to venue policies as well as the rules defined in this section. Venues may have penalties that differ from Fragadelphia’s enforceable at the venue staff’s discretion.
+
+### Bag Policy
+1. Only rostered players will be allowed to bring bags into the venue. All other attendees will not be allowed to bring bags into the venue. All bags are subject to search before entry.
 
 ### Laws
 1. All attendees must adhere to local laws and regulations.
