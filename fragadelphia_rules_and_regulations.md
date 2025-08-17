@@ -53,7 +53,6 @@
 1. Teams may be required to present payment receipt and/or verification when checking in.
 2. All players must carry a valid Government issued photo ID for verification purposes.
 3. Check in times are scheduled in a manner to ease traffic at the check-in table. Teams that arrive early will be asked to wait until their scheduled check in time.
-4. Teams must wait for seating assignments before setting up. When checked in, teams will be assigned seating. 
 
 ---
 
