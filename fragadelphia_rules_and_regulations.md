@@ -1,4 +1,3 @@
-
 # Tournament Rules and Regulations
 
 ## Table of Contents
