@@ -38,6 +38,7 @@
 1. All attendees must register through the official Fragadelphia website (www.fragadelphia.com), or through an advertised partner as listed for certain events. 
 2. Unless advertised as an invitational event, all Fragadelphia events are open to the public with no qualification events.
 3. Team tickets are non-transferable and non-refundable. The ticket purchaser is responsible for submitting a roster. Purchaser of team ticket MAY NOT resell or request refund of a Fragadelphia Team Ticket.
+4. If a team is unable to attend but does not inform Fragadelphia through the discord ticketing system 17 days prior to an event, they will be seeded into the tournament and all matches will be recorded as a forfeit.
 
 ### Roster Limitations
 1. All captains must submit team forms by the designated submission date. Failure to do so may result in a penalty.
