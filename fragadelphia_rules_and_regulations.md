@@ -1,3 +1,4 @@
+
 # Tournament Rules and Regulations
 
 ## Table of Contents
@@ -184,10 +185,14 @@
    15 minutes late = Loss of veto  
    30 minutes late = Loss of veto and forfeiture of map 1  
    60 minutes late  = Loss loss of series
+   
+### Failure to Start Match On Time
+1. Teams that fail to have all players in the server and at their desks will have two tactical timeouts removed.
+2. Teams that have all players in the server and at their desks but have not marked their team as ready will have one tactical timeout removed.
 
 ### Communication Violations
 1. Speaking during technical time-outs will be punished as follows:
-   1. Talking during technical time-outs to anyone but the admin will first result in a verbal warning. Every instance of the rule being broken after the initial verbal warning will incur the loss of one (1) tactical timeout. If a team has used or lost all tactical time-outs, the team will only be given one (1) warning followed by the loss of their ability to use tactical time-outs for the remainder of the event and the immediate and permanent removal of their coach from the tournament.
+   1. Talking during technical time-outs to anyone but the admin will first result in a verbal warning. Every instance of the rule being broken after the initial verbal warning will incur the loss of one tactical timeout. If a team has used or lost all tactical time-outs, the team will only be given one warning followed by the loss of their ability to use tactical time-outs for the remainder of the event and the immediate and permanent removal of their coach from the tournament.
    2. Teams without coaches found to be speaking with each other during technical timeouts will incur the same penalties as a team with a coach would, including a final verbal warning before the loss of their ability to use tactical time-outs for the remainder of the tournament.
 
 ### Repetitive Issues
