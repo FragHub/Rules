@@ -25,9 +25,10 @@
 4. [Penalties](#penalties)
    1. [Player Form Submission Failure](#player-form-submission-failure)
    2. [Punctuality](#punctuality)
-   3. [Communication Violations](#communication-violations)
-   4. [Repetitive Issues](#repetitive-issues)
-   5. [Penalty Disputes](#penalty-disputes)
+   3. [Failure to Start Match On Time](#failure-to-start-match-on-time)
+   4. [Communication Violations](#communication-violations)
+   5. [Repetitive Issues](#repetitive-issues)
+   6. [Penalty Disputes](#penalty-disputes)
 5. [Definitions and Key Terms](#definitions-and-key-terms)
 
 ---
