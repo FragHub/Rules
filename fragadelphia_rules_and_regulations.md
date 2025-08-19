@@ -160,7 +160,7 @@
 4. All players must use the computers and monitors supplied by Fragadelphia. No other computers or monitors may be used for any purpose.
 
 ### Seeding Formula and Placement
-1. Event seeding formula is as follows; VRS World Ranking > VRS Regional Ranking > Current League Status > Player Experience  > Faceit Elo.
+1. Events are seeded by the VRS World then Regional Ranking. Once all VRS ranked teams are seeded, the Head Admin evaluates the following criteria, in no particular order, to determine the most fair seeding for the remaining teams: current league status, LAN experience, league history, faceit elo.
 2. Fragadelphia uses a “snake” method for group stage seeding. If there are not enough teams to fill every group, some teams may be given a BYE based on seeding, with priority given to higher seeded teams. 
 3. The Head Admin shall be responsible for notifying teams if there is a change in seeding and/or check-in time. Failure to check-in may result in removal from the event and counted as a forfeit loss.
 
