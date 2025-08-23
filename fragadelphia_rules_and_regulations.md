@@ -222,6 +222,7 @@
 &nbsp;&nbsp;&nbsp;Remaining Map, Knife For Sides
    
 &nbsp;&nbsp;3.5.4.4 For a Best of 5 series:
+
 &nbsp;&nbsp;&nbsp;Team A Bans  
 &nbsp;&nbsp;&nbsp;Team B Bans  
 &nbsp;&nbsp;&nbsp;Team A Pick Map  
