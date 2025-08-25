@@ -79,7 +79,7 @@
 
 &nbsp;1.2.1 All team captains must submit team forms by the designated submission date. Failure to do so may result in a penalty.
 
-&nbsp;1.2.3 There are no limitations on gender or region for rostered players. All are welcome at Fragadelphia.
+&nbsp;1.2.2 There are no limitations on gender or region for rostered players. All are welcome at Fragadelphia.
 
 
 ### 1.3 Substitutions
