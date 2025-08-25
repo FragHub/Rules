@@ -69,15 +69,18 @@
 
 &nbsp;1.1.2 Unless advertised as an invitational event, all Fragadelphia events are open to the public with no qualification events.
 
-&nbsp;1.1.3 Team tickets are non-transferable and non-refundable. The ticket purchaser is responsible for submitting a roster. Purchaser of team ticket MAY NOT resell or request refund of a Fragadelphia Team Ticket.
+&nbsp;1.1.3 Team tickets are non-transferable and non-refundable. The ticket purchaser is responsible for submitting a core roster. Purchaser of team ticket MAY NOT resell or request refund of a Fragadelphia Team Ticket.
 
-&nbsp;1.1.4 If a team is unable to attend but does not inform Fragadelphia through the discord ticketing system 17 days prior to an event, they will be seeded into the tournament and all matches will be recorded as a forfeit.
+&nbsp;1.1.4 Upon ticket purchase completion, ownership of the ticket is assigned to the designated team captain who must be a core player. Designated captains can request the captain role to be transferred to any core member at any time.
+
+&nbsp;1.1.5 If a team is unable to attend but does not inform Fragadelphia through the discord ticketing system 17 days prior to an event, they will be seeded into the tournament and all matches will be recorded as a forfeit.
 
 ### 1.2 Roster Limitations
 
-&nbsp;1.2.1 All captains must submit team forms by the designated submission date. Failure to do so may result in a penalty.
+&nbsp;1.2.1 All team captains must submit team forms by the designated submission date. Failure to do so may result in a penalty.
 
-&nbsp;1.2.2 There are no limitations on gender or region for rostered players. All are welcome at Fragadelphia.
+&nbsp;1.2.3 There are no limitations on gender or region for rostered players. All are welcome at Fragadelphia.
+
 
 ### 1.3 Substitutions
 
@@ -312,16 +315,18 @@
 
 &nbsp;1 **Attendee**: Any person attending a Fragadelphia event, including (but not limited to) players, team staff, media personnel, spectators, vendors, volunteers, staff, and management. 
 
-&nbsp;2 **Captain**: The person responsible for a team, listed as Player 1 on the submitted team form. The person responsible for communication with admins and being present for all event processes.
+&nbsp;2 **Team Captain**: Must be one of five players on the submitted roster. The person responsible for a team, listed as Player 1 on the submitted team form. The person responsible for communication with admins and being present for all event processes.
 
-&nbsp;3 **Head Admin**: The admin responsible for the event.
+&nbsp;3 **Core Roster**: The 3 players submitted upon ticket purchase, one of which is the team captain.
 
-&nbsp;4 **Match Admin**: The admin assigned to a specific match.
+&nbsp;4 **Head Admin**: The admin responsible for the event.
 
-&nbsp;5 **Freeze-Time**: The time between playable rounds.
+&nbsp;5 **Match Admin**: The admin assigned to a specific match.
 
-&nbsp;6 **Match Medic**: The automated process for restoring a match to a previous point.
+&nbsp;6 **Freeze-Time**: The time between playable rounds.
 
-&nbsp;7 **Vetos**: The process for determining which maps will be played in a series.
+&nbsp;7 **Match Medic**: The automated process for restoring a match to a previous point.
 
-&nbsp;8 **Management**: BUCK TEN, LLC
+&nbsp;8 **Vetos**: The process for determining which maps will be played in a series.
+
+&nbsp;9 **Management**: BUCK TEN, LLC.
