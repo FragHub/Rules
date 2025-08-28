@@ -98,11 +98,11 @@
 
 ### 1.4 Substitutions
 
-&nbsp;1.3.1 A team may make a substitution in-between matches for any reason, but not to the team's Frag core.
+&nbsp;1.3.1 A team may make a substitution in-between matches for any reason, but they must maintain a majority of their Frag core except in the case of a provable medical emergency.
 
 &nbsp;1.3.2 A team may make a substitution during a match or in-between maps only in the case of a provable medical emergency. 
 
-&nbsp;&nbsp;1.3.2.1 Emergencies will be determined at the Head admin's discretion.
+&nbsp;&nbsp;1.3.2.1 Emergencies will be determined at the Head Admin's discretion.
 
 &nbsp;1.3.3 Once a substitution has been made, the team may continue to play with the substitute player until they choose to revert to their submitted roster.
 
