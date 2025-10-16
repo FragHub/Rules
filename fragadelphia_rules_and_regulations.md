@@ -1,3 +1,4 @@
+
 # Tournament Rules and Regulations
 
 ## Table of Contents
@@ -44,8 +45,10 @@
    3.7 [Seeding Formula and Placement](#37-seeding-formula-and-placement)
    
    3.8 [Event Disruptions](#38-event-disruptions)
+
+   3.9 [Match Settings](#39-match-settings)
    
-5. [Penalties](#4-penalties)
+6. [Penalties](#4-penalties)
    
    4.1 [Player Form Submission Failure](#41-player-form-submission-failure)
    
@@ -59,7 +62,7 @@
    
    4.6 [Penalty Disputes](#46-penalty-disputes)
    
-6. [Definitions and Key Terms](#5-definitions-and-key-terms)
+7. [Definitions and Key Terms](#5-definitions-and-key-terms)
 
 ---
 
@@ -285,6 +288,20 @@
 * * 3.8.1.3. Match Admins have the final say as to whether or not Match Medic will be used.
 
 * 3.8.2 Match start times may be moved. The Head Admin will communicate to team captains when their match time is changed.
+
+### 3.9 Match Settings
+
+* 3.9.1 The match settings are configured as follows:
+	* Rounds: 24 (mp_maxrounds_24)
+	* Round Time: 1 minute 55 seconds (mp_roundtime 1.92)
+	* Start Money: $800 (mp_startmoney 800)
+	* Freeze Time: 20 seconds (mp_freezetime 20)
+	* Buy Time: 20 seconds (mp_buytime 20)
+	* Bomb Timer: 40 seconds (mp_c4timer 40)
+	* Overtime Rounds: Best of 6 (mp_overtime_maxrounds 6)
+	* Overtime Start Money: $12,500 (mp_overtime_startmoney 12500)
+	* Round Restart Delay: 5 seconds (mp_round_restart_delay 5)
+	* Break During Half Time: 15 seconds (mp_halftime_duration 15)
 
 ---
 
