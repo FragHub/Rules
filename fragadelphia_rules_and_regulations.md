@@ -197,7 +197,8 @@
 
  ### 3.3 Time-outs
 
-* 3.3.1 All teams are given 3 tactical time-outs per map played. All forms of communication are allowed during a tactical time-out.
+* 3.3.1 All teams are given 3 tactical time-outs for the regulation rounds of each map . All forms of communication are allowed during a tactical time-out.
+* * 3.3.1.1 At the start of overtime, all existing tactical timeouts saved from regulation are removed. Each team is awarded one tactical timeout for each overtime period.
 
 * 3.3.2 All teams are given the ability to activate technical time-outs during any freeze-time. All forms of communication except communication with an admin are prohibited during technical time-outs, and will result in a penalty. 
 
