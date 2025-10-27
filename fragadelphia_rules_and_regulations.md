@@ -236,7 +236,8 @@
 * 4.3.1 All teams are given 3 tactical time-outs for the regulation rounds of each map . All forms of communication are allowed during a tactical time-out.
 * * 4.3.1.1 At the start of overtime, all existing tactical timeouts saved from regulation are removed. Each team is awarded one tactical timeout for each overtime period.
 
-* 4.3.2 All teams are given the ability to activate technical time-outs during any freeze-time. All forms of communication except communication with an admin are prohibited during technical time-outs, and will result in a penalty. 
+* 4.3.2 All teams are given the ability to activate technical time-outs during any freeze-time. All forms of communication except communication with an admin are prohibited during technical time-outs, and will result in a penalty.
+* * 4.3.2.1 All technical timeouts require a clearly stated reason in all chat by the team that initiates it and must be acknowledged by a match admin before being ended.
 
  ### 4.4 Coaching
 
@@ -408,6 +409,8 @@
 **Freeze-Time**: The time between playable rounds.
 
 **Technical Timeout**: An indefinite pause during a match used solely for the purpose of resolving a technical issue. May be initiated by players and must be explained in match chat before being ended.
+
+**All Chat**: The in game text communication visible to both teams.
 
 **Match Medic**: The automated process for restoring a match to a previous point.
 
