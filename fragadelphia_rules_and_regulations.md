@@ -82,7 +82,7 @@
 
 ### 1.1 Registration Payment/Fee
 
-* 1.1.1 All attendees must register through the official Frag website (www.Frag.to), or through an advertised partner as listed for certain events. 
+* 1.1.1 All attendees must register through the official Frag website (https://frag.to), or through an advertised partner as listed for certain events. 
 
 * 1.1.2 Unless advertised as an invitational event, all Frag events are open to the public with no qualification events.
 
