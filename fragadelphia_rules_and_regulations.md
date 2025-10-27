@@ -36,37 +36,37 @@
    
 4. [Event Rules](#4-event-rules)
    
-   3.1 [Roster/Player Details](#41-rosterplayer-details)
+   4.1 [Roster/Player Details](#41-rosterplayer-details)
    
-   3.2 [Peripheral Requirements](#42-peripheral-requirements)
+   4.2 [Peripheral Requirements](#42-peripheral-requirements)
    
-   3.3 [Time-outs](#43-time-outs)
+   4.3 [Time-outs](#43-time-outs)
    
-   3.4 [Coaching](#44-coaching)
+   4.4 [Coaching](#44-coaching)
    
-   3.5 [Event Formats](#45-event-formats-and-active-maps)
+   4.5 [Event Formats](#45-event-formats-and-active-maps)
    
-   3.6 [Third Party Programs and PC Security Protocols](#46-third-party-programs-and-pc-security-protocols)
+   4.6 [Third Party Programs and PC Security Protocols](#46-third-party-programs-and-pc-security-protocols)
    
-   3.7 [Seeding Formula and Placement](#47-seeding-formula-and-placement)
+   4.7 [Seeding Formula and Placement](#47-seeding-formula-and-placement)
    
-   3.8 [Event Disruptions](#48-event-disruptions)
+   4.8 [Event Disruptions](#48-event-disruptions)
 
-   3.9 [Match Settings](#49-match-settings)
+   4.9 [Match Settings](#49-match-settings)
    
 5. [Penalties](#5-penalties)
    
-   4.1 [Player Form Submission Failure](#51-player-form-submission-failure)
+   5.1 [Player Form Submission Failure](#51-player-form-submission-failure)
    
-   4.2 [Punctuality](#52-punctuality)
+   5.2 [Punctuality](#52-punctuality)
    
-   4.3 [Failure to Start Match On Time](#53-failure-to-start-match-on-time)
+   5.3 [Failure to Start Match On Time](#53-failure-to-start-match-on-time)
    
-   4.4 [Communication Violations](#54-communication-violations)
+   5.4 [Communication Violations](#54-communication-violations)
    
-   4.5 [Repetitive Issues](#55-repetitive-issues)
+   5.5 [Repetitive Issues](#55-repetitive-issues)
    
-   4.6 [Penalty Disputes](#56-penalty-disputes)
+   5.6 [Penalty Disputes](#56-penalty-disputes)
 
 6. [Tournament Administration](#6-tournament-administration)
 
