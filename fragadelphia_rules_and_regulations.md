@@ -201,13 +201,13 @@
 
 ### 3.3 Media Usage and Licensing
 
-* 3.3.1 All media recorded within the venue of a Frag event is owned by Frag. If a license is purchase for any mdeia, ownership of the licensed media will default to shared ownership, but full ownership can be negotiated.
+* 3.3.1 All media recorded within the venue of a Frag event is owned by Frag. If a license is purchase for any media, ownership of the licensed media will default to shared ownership, but full ownership can be negotiated.
 
 * 3.3.2 Usage for all media posted in an official event album by staff photographers is free if all requirements are met. Requirements for free usage are:
 * * No altering of the media.
 * * No hateful usage of the media.
 * * No removal of a watermark except if being used as a profile picture on social media platforms.
-* * No for-profit usage of the media. Meaning no addition of sponsor logos and branding or using the pmedia in a way that generates ad revenue such as YouTube thumbnails.
+* * No for-profit usage of the media. Meaning no addition of sponsor logos and branding or using the media in a way that generates ad revenue such as YouTube thumbnails.
  
 * 3.3.3 A license for any media available under the free usage rule can be purchased by contacting the Head of Media through the Discord ticket system. Owning a license grants the licensee the right to alter licensed media, own a copy of the licensed media without a watermark, and use the licensed media for-profit.
 * * All licenses are non-refundable.
@@ -251,9 +251,9 @@
 
 * 4.5.2 Unless otherwise specified, all matches will be a Best of 3 maps. 
 
-* 4.5.3 Unless otherwise specified, all map vetos will be done in the game server using the integrated veto system.
+* 4.5.3 Unless otherwise specified, all map vetoes will be done in the game server using the integrated veto system.
 
-* * 4.5.3.1 Broadcast/Stage matches will be subjected to manual vetos completed by the admin staff on site with team captains.
+* * 4.5.3.1 Broadcast/Stage matches will be subjected to manual vetoes completed by the admin staff on site with team captains.
 
 * 4.5.4 The veto format is as follows:
 
@@ -347,7 +347,7 @@
 
 ### 5.1 Player Form Submission Failure
 
-* 5.1.1 Teams that fail to submit their team form properly and on time may incur the following penalties: loss of bans during map vetos and loss of picks during map vetos.
+* 5.1.1 Teams that fail to submit their team form properly and on time may incur the following penalties: loss of bans during map vetoes and loss of picks during map vetoes.
 
 ### 5.2 Punctuality
 
@@ -414,6 +414,6 @@
 
 **Match Medic**: The automated process for restoring a match to a previous point.
 
-**Vetos**: The pick and ban process for determining which maps will be played in a match.
+**Vetoes**: The pick and ban process for determining which maps will be played in a match.
 
 **Management**: BUCK TEN, LLC.
