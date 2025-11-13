@@ -96,7 +96,7 @@
 
 * 1.2.1 During ticket purchase, purchasers will be prompted to designate the team captain. The team captain must be a player from the team's Frag core.
 
-* * 1.2.1.1 Team captains have 1 week after ticket purchase to submit a Frag core of 3-5 players. After this 1 week period, these players are locked as the Frag core. Failure to submit a Frag core within the 1 week period will result in penalty.
+* * 1.2.1.1 Team captains have 1 week after they receive a Team Form to submit a Frag core of 3-5 players. After this 1 week period, these players are locked as the Frag core. Failure to submit a Frag core within the 1 week period will result in penalty.
 
 * * 1.2.1.2 Designated captains can request the captain role to be transferred to any Frag core member at any time.
 
@@ -401,6 +401,8 @@
 **Team Captain**: Must be one of five players in the submitted Frag core. The person responsible for a team, listed as Player 1 on the submitted roster form. The person responsible for communication with admins and being present for all event processes.
 
 **Frag Core**: The 3-5 players submitted 1 week after ticket purchase, one of which is the team captain.
+
+**Team Form**: The form sent to Team Captains to collect their initial roster information.
 
 **Head Admin**: The admin responsible for the event.
 
