@@ -88,7 +88,7 @@
 
 * 1.1.3 Team tickets are non-transferable and non-refundable. Purchaser of team ticket MAY NOT resell or request refund of a Frag Team Ticket.
 
-* 1.1.4 Upon ticket purchase completion, ownership of the ticket is assigned to the designated team captain who must be a core player.
+* 1.1.4 Upon ticket purchase completion, ownership of the ticket is assigned to the designated team captain.
 
 * 1.1.5 If the team you are signing up with has a VRS ranked core, you must provide the name of the core as it is on the VRS rankings. If you will be playing in the tournament under a different name, you may also provide that.
 
@@ -96,9 +96,9 @@
 
 * 1.2.1 During ticket purchase, purchasers will be prompted to designate the team captain. The team captain must be a player from the team's Frag core.
 
-* * 1.2.1.1 Team captains have 1 week after ticket purchase to submit a Frag core of 3-5 players. After this 1 week period, these players are locked as the Frag core. Failure to submit a Frag core within the 1 week period will result in penalty.
+* * 1.2.1.1 Team captains have 1 week after they receive a Team Form to submit a Frag core of 3-5 players. After this 1 week period, these players are locked as the Frag core. Failure to submit a Frag core within the 1 week period will result in penalty.
 
-* * 1.2.1.2 Designated captains can request the captain role to be transferred to any Frag core member at any time.
+* * 1.2.1.2 Designated captains can request the captain role to be transferred at any time.
 
 * * 1.2.1.3 Teams are required to play all matches with a minimum of 3 or a majority of their submitted Frag core.
 
@@ -401,6 +401,8 @@
 **Team Captain**: Must be one of five players in the submitted Frag core. The person responsible for a team, listed as Player 1 on the submitted roster form. The person responsible for communication with admins and being present for all event processes.
 
 **Frag Core**: The 3-5 players submitted 1 week after ticket purchase, one of which is the team captain.
+
+**Team Form**: The form sent to Team Captains to collect their initial roster information.
 
 **Head Admin**: The admin responsible for the event.
 
