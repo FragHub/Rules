@@ -7,12 +7,14 @@
    1.1 [Registration Payment/Fee](#11-registration-paymentfee)
 
    1.2 [Roster Submission Guidelines](#12-roster-submission-guidelines)
+
+   1.3 [Roster Submission Deadlines](#13-roster-submission-deadlines)
    
-   1.3 [Roster Limitations](#13-roster-limitations)
+   1.4 [Roster Limitations](#14-roster-limitations)
    
-   1.4 [Substitutions](#14-substitutions)
+   1.5 [Substitutions](#15-substitutions)
    
-   1.5 [Check In](#15-check-in)
+   1.6 [Check In](#16-check-in)
    
 2. [General Attendance Rules](#2-general-attendance-rules)
    
@@ -96,8 +98,6 @@
 
 * 1.2.1 During ticket purchase, purchasers will be prompted to designate the team captain. The team captain must be a player from the team's Frag core.
 
-* * 1.2.1.1 Team captains have 1 week after ticket purchase to submit a Frag core of 3-5 players. After this 1 week period, these players are locked as the Frag core. Failure to submit a Frag core within the 1 week period will result in penalty.
-
 * * 1.2.1.2 Designated captains can request the captain role to be transferred to any Frag core member at any time.
 
 * * 1.2.1.3 Teams are required to play all matches with a minimum of 3 or a majority of their submitted Frag core.
@@ -110,34 +110,47 @@
 
 * 1.2.4 If participation majority as stated in 1.2.1.3 is not affected, teams can submit roster additions at check in of the event. These additions will incur a fee of 1/5th of a full price team pass per player.
 
-### 1.3 Roster Limitations
+* 1.2.5 All submissions must not put FRAG in violation of the [Valve Tournament Operating Requirements](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md) and [Valve Game Tournament License](https://store.steampowered.com/tourney/limited_license)
 
-* 1.3.1 There are no limitations on gender or region for rostered players. All are welcome at Frag.
+### 1.3 Roster Submission Deadlines
 
+* 1.3.1 Team captains have 1 week after ticket purchase to submit a Frag core of 3-5 players. After this 1 week period, these players are locked as the Frag core. Failure to submit a Frag core within the 1 week period will result in penalty.
 
-### 1.4 Substitutions
+* 1.3.2 Team Form Submission Deadline
 
-* 1.3.1 A team may make a substitution in-between matches for any reason, but they must maintain a majority of their Frag core except in the case of a provable medical emergency.
+* * 1.3.2.1 If there are **more than 60 days** until the event start date, the team form is due 60 days before the event start date
 
-* 1.3.2 A team may make a substitution during a match or in-between maps only in the case of a provable medical emergency. 
+* * 1.3.2.2 If there are **less than 60 days** until the event start date, the team form is due one week after you received it. 
 
-* * 1.3.2.1 Emergencies will be determined at the Head Admin's discretion.
+* * 1.3.2.3 If there is **less than one week** before the roster lock date, the team form is due on that date.
 
-* 1.3.3 Once a substitution has been made, the team may continue to play with the substitute player until they choose to revert to their submitted roster.
+### 1.4 Roster Limitations
 
-* 1.3.4 Once a team returns to their original roster, they may not use any more substitutions except in the case of another provable medical emergency. 
+* 1.4.1 There are no limitations on gender or region for rostered players. All are welcome at Frag.
 
-### 1.5 Check In
+### 1.5 Substitutions
 
-* 1.4.1 Teams may be required to present payment receipt and/or verification when checking in.
+* 1.5.1 A team may make a substitution in-between matches for any reason, but they must maintain a majority of their Frag core except in the case of a provable medical emergency.
 
-* 1.4.2 All players must carry a valid Government issued photo ID for verification purposes.
+* 1.5.2 A team may make a substitution during a match or in-between maps only in the case of a provable medical emergency. 
 
-* 1.4.2 A team's Frag core must be present for check in.
+* * 1.5.2.1 Emergencies will be determined at the Head Admin's discretion.
 
-* 1.4.3 Check in times are scheduled in a manner to ease traffic at the check-in table. Teams that arrive early will be asked to wait until their scheduled check in time.
+* 1.5.3 Once a substitution has been made, the team may continue to play with the substitute player until they choose to revert to their submitted roster.
 
-* 1.4.4 Teams must wait for seating assignments before setting up. When checked in, teams will be assigned seating. 
+* 1.5.4 Once a team returns to their original roster, they may not use any more substitutions except in the case of another provable medical emergency. 
+
+### 1.6 Check In
+
+* 1.6.1 Teams may be required to present payment receipt and/or verification when checking in.
+
+* 1.6.2 All players must carry a valid Government issued photo ID for verification purposes.
+
+* 1.6.2 A team's Frag core must be present for check in.
+
+* 1.6.3 Check in times are scheduled in a manner to ease traffic at the check-in table. Teams that arrive early will be asked to wait until their scheduled check in time.
+
+* 1.6.4 Teams must wait for seating assignments before setting up. When checked in, teams will be assigned seating. 
 
 ---
 
