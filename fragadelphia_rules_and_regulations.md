@@ -96,9 +96,9 @@
 
 * 1.2.1 During ticket purchase, purchasers will be prompted to designate the team captain. The team captain must be a player from the team's Frag core.
 
-* * 1.2.1.2 Designated captains can request the captain role to be transferred to any Frag core member at any time.
+* * 1.2.1.1 Designated captains can request the captain role to be transferred to any Frag core member at any time.
 
-* * 1.2.1.3 Teams are required to play all matches with a minimum of 3 or a majority of their submitted Frag core.
+* * 1.2.1.2 Teams are required to play all matches with a minimum of 3 or a majority of their submitted Frag core.
 
 * 1.2.2 Frag rosters will lock 17 days before the tournament. Changes to the team's submitted Frag roster cannot be made after this 17 day period.
 
