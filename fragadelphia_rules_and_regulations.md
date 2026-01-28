@@ -2,81 +2,79 @@
 # Tournament Rules and Regulations
 
 ## Table of Contents
-1. [Registration Regulations](#1-registration-regulations)
+1. [Registration Regulations](#registration-regulations)
    
-   1.1 [Registration Payment/Fee](#11-registration-paymentfee)
+   1.1 [Registration Payment/Fee](#registration-paymentfee)
 
-   1.2 [Roster Submission Guidelines](#12-roster-submission-guidelines)
+   1.2 [Roster Submission Guidelines](#roster-submission-guidelines)
+   
+   1.3 [Roster Limitations](#roster-limitations)
+   
+   1.4 [Substitutions](#substitutions)
+   
+   1.5 [Check In](#check-in)
+   
+2. [General Attendance Rules](#general-attendance-rules)
+   
+   2.1 [Participants Guideline](#participants-guideline)
+   
+   2.2 [Bag Policy](#bag-policy)
+   
+   2.3 [Laws](#laws)
+   
+   2.4 [Confidentiality](#confidentiality)
+   
+   2.5 [Age Restriction](#age-restriction)
 
-   1.3 [Roster Submission Deadlines](#13-roster-submission-deadlines)
-   
-   1.4 [Roster Limitations](#14-roster-limitations)
-   
-   1.5 [Substitutions](#15-substitutions)
-   
-   1.6 [Check In](#16-check-in)
-   
-2. [General Attendance Rules](#2-general-attendance-rules)
-   
-   2.1 [Participants Guideline](#21-participants-guideline)
-   
-   2.2 [Bag Policy](#22-bag-policy)
-   
-   2.3 [Laws](#23-laws)
-   
-   2.4 [Confidentiality](#24-confidentiality)
-   
-   2.5 [Age Restriction](#25-age-restriction)
+3. [Broadcast and Media](#broadcast-and-media)
 
-3. [Broadcast and Media](#3-broadcast-and-media)
+   3.1 [Broadcast Rights](#broadcast-rights)
 
-   3.1 [Broadcast Rights](#31-broadcast-rights)
+   3.2 [Media Obligations](#media-obligations)
 
-   3.2 [Media Obligations](#32-media-obligations)
+   3.3 [Media Usage and Licensing](#media-usage-and-licensing)
+   
+4. [Event Rules](#event-rules)
+   
+   4.1 [Roster/Player Details](#rosterplayer-details)
+   
+   4.2 [Peripheral Requirements](#peripheral-requirements)
+   
+   4.3 [Time-outs](#time-outs)
+   
+   4.4 [Coaching](#coaching)
+   
+   4.5 [Event Formats](#event-formats-and-active-maps)
+   
+   4.6 [Third Party Programs and PC Security Protocols](#third-party-programs-and-pc-security-protocols)
+   
+   4.7 [Seeding Formula and Placement](#seeding-formula-and-placement)
+   
+   4.8 [Event Disruptions](#event-disruptions)
 
-   3.3 [Media Usage and Licensing](#33-media-usage-and-licensing)
+   4.9 [Match Settings](#match-settings)
    
-4. [Event Rules](#4-event-rules)
+5. [Penalties](#penalties)
    
-   4.1 [Roster/Player Details](#41-rosterplayer-details)
+   5.1 [Player Form Submission Failure](#player-form-submission-failure)
    
-   4.2 [Peripheral Requirements](#42-peripheral-requirements)
+   5.2 [Punctuality](#punctuality)
    
-   4.3 [Time-outs](#43-time-outs)
+   5.3 [Failure to Start Match On Time](#failure-to-start-match-on-time)
    
-   4.4 [Coaching](#44-coaching)
+   5.4 [Communication Violations](#communication-violations)
    
-   4.5 [Event Formats](#45-event-formats-and-active-maps)
+   5.5 [Repetitive Issues](#repetitive-issues)
    
-   4.6 [Third Party Programs and PC Security Protocols](#46-third-party-programs-and-pc-security-protocols)
-   
-   4.7 [Seeding Formula and Placement](#47-seeding-formula-and-placement)
-   
-   4.8 [Event Disruptions](#48-event-disruptions)
+   5.6 [Penalty Disputes](#penalty-disputes)
 
-   4.9 [Match Settings](#49-match-settings)
-   
-5. [Penalties](#5-penalties)
-   
-   5.1 [Player Form Submission Failure](#51-player-form-submission-failure)
-   
-   5.2 [Punctuality](#52-punctuality)
-   
-   5.3 [Failure to Start Match On Time](#53-failure-to-start-match-on-time)
-   
-   5.4 [Communication Violations](#54-communication-violations)
-   
-   5.5 [Repetitive Issues](#55-repetitive-issues)
-   
-   5.6 [Penalty Disputes](#56-penalty-disputes)
+6. [Tournament Administration](#tournament-administration)
 
-6. [Tournament Administration](#6-tournament-administration)
+   6.1 [Admin Abuse](#admin-abuse)
 
-   6.1 [Admin Abuse](#61-admin-abuse)
+   6.2 [Admin Authority](#admin-authority)
 
-   6.2 [Admin Authority](#62-admin-authority)
-
-7. [Definitions and Key Terms](#7-definitions-and-key-terms)
+7. [Definitions and Key Terms](#definitions-and-key-terms)
 
 ---
 
@@ -84,13 +82,13 @@
 
 ### 1.1 Registration Payment/Fee
 
-* 1.1.1 All attendees must register through the official Frag website (www.Frag.to), or through an advertised partner as listed for certain events. 
+* 1.1.1 All attendees must register through the official Frag website (https://frag.to), or through an advertised partner as listed for certain events. 
 
 * 1.1.2 Unless advertised as an invitational event, all Frag events are open to the public with no qualification events.
 
 * 1.1.3 Team tickets are non-transferable and non-refundable. Purchaser of team ticket MAY NOT resell or request refund of a Frag Team Ticket.
 
-* 1.1.4 Upon ticket purchase completion, ownership of the ticket is assigned to the designated team captain who must be a core player.
+* 1.1.4 Upon ticket purchase completion, ownership of the ticket is assigned to the designated team captain.
 
 * 1.1.5 If the team you are signing up with has a VRS ranked core, you must provide the name of the core as it is on the VRS rankings. If you will be playing in the tournament under a different name, you may also provide that.
 
@@ -214,13 +212,13 @@
 
 ### 3.3 Media Usage and Licensing
 
-* 3.3.1 All media recorded within the venue of a Frag event is owned by Frag. If a license is purchase for any mdeia, ownership of the licensed media will default to shared ownership, but full ownership can be negotiated.
+* 3.3.1 All media recorded within the venue of a Frag event is owned by Frag. If a license is purchase for any media, ownership of the licensed media will default to shared ownership, but full ownership can be negotiated.
 
 * 3.3.2 Usage for all media posted in an official event album by staff photographers is free if all requirements are met. Requirements for free usage are:
 * * No altering of the media.
 * * No hateful usage of the media.
 * * No removal of a watermark except if being used as a profile picture on social media platforms.
-* * No for-profit usage of the media. Meaning no addition of sponsor logos and branding or using the pmedia in a way that generates ad revenue such as YouTube thumbnails.
+* * No for-profit usage of the media. Meaning no addition of sponsor logos and branding or using the media in a way that generates ad revenue such as YouTube thumbnails.
  
 * 3.3.3 A license for any media available under the free usage rule can be purchased by contacting the Head of Media through the Discord ticket system. Owning a license grants the licensee the right to alter licensed media, own a copy of the licensed media without a watermark, and use the licensed media for-profit.
 * * All licenses are non-refundable.
@@ -264,9 +262,9 @@
 
 * 4.5.2 Unless otherwise specified, all matches will be a Best of 3 maps. 
 
-* 4.5.3 Unless otherwise specified, all map vetos will be done in the game server using the integrated veto system.
+* 4.5.3 Unless otherwise specified, all map vetoes will be done in the game server using the integrated veto system.
 
-* * 4.5.3.1 Broadcast/Stage matches will be subjected to manual vetos completed by the admin staff on site with team captains.
+* * 4.5.3.1 Broadcast/Stage matches will be subjected to manual vetoes completed by the admin staff on site with team captains.
 
 * 4.5.4 The veto format is as follows:
 
@@ -360,7 +358,7 @@
 
 ### 5.1 Player Form Submission Failure
 
-* 5.1.1 Teams that fail to submit their team form properly and on time may incur the following penalties: loss of bans during map vetos and loss of picks during map vetos.
+* 5.1.1 Teams that fail to submit their team form properly and on time may incur the following penalties: loss of bans during map vetoes and loss of picks during map vetoes.
 
 ### 5.2 Punctuality
 
@@ -415,6 +413,8 @@
 
 **Frag Core**: The 3-5 players submitted 1 week after ticket purchase, one of which is the team captain.
 
+**Team Form**: The form sent to Team Captains to collect their initial roster information.
+
 **Head Admin**: The admin responsible for the event.
 
 **Match Admin**: The admin assigned to a specific match.
@@ -427,6 +427,6 @@
 
 **Match Medic**: The automated process for restoring a match to a previous point.
 
-**Vetos**: The pick and ban process for determining which maps will be played in a match.
+**Vetoes**: The pick and ban process for determining which maps will be played in a match.
 
 **Management**: BUCK TEN, LLC.
